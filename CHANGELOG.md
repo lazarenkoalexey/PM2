@@ -26,6 +26,7 @@
 - Socket errors handled
 - Watchdog via Agent - restart automatically PM2 with previous processes in case of crash
 - PM2_NODE_OPTIONS deprecation (use --node-args instead)
+- test
 
 # 0.9.6 - 0.9.5 - 0.9.4
 
